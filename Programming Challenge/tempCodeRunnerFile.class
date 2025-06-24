@@ -1,0 +1,8 @@
+public class C1_Display_Output {
+   public C1_Display_Output() {
+   }
+
+   public static void main(String[] var0) {
+      System.out.println("good morning");
+   }
+}
