@@ -1,0 +1,9 @@
+lnteger literals : 10, 5, -8 etc...
+
+Floating point literals : 1.2, 0.25, -1.99 etc...
+
+Boolean literals : true, false
+
+Character literals : 'a', 'A', 'n", 'q' etc...
+
+String literals : "hii" , "hello", "What's up?"
